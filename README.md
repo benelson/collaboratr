@@ -13,4 +13,8 @@ If you get an error when trying to draw graphs like `dyld: Library not loaded: /
 $> brew install libtool
 $> brew link libtool
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9061db42095f56c5e0da30640b101b9c4c74ec97
 ![badge-img](https://img.shields.io/badge/Made%20at-%23AstroHackWeek-8063d5.svg?style=flat)
